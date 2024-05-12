@@ -1,0 +1,48 @@
+{
+    "datas": [
+        {
+            "id": "1",
+            "fName": "Zufarbek",
+            "lName": "Yoldashev",
+            "country": "Uzbekistan",
+            "birthday": "2003-02-28",
+            "position": "Junior",
+            "job": "Frontend",
+            "salary": "1000",
+            "isMarried": false
+        },
+        {
+            "id": "2",
+            "fName": "John",
+            "lName": "Doe",
+            "country": "USA",
+            "birthday": "2000-12-08",
+            "position": "Middle",
+            "job": "Backend",
+            "salary": "5000",
+            "isMarried": true
+        },
+        {
+            "id": "3",
+            "fName": "Alex",
+            "lName": "Brown",
+            "country": "Malaysia",
+            "birthday": "1997-10-28",
+            "position": "Senior",
+            "job": "Fullstack",
+            "salary": "6000",
+            "isMarried": true
+        },
+        {
+            "id": "4",
+            "fName": "Tom",
+            "lName": "Smith",
+            "country": "Canada",
+            "birthday": "2005-08-10",
+            "position": "Junior",
+            "job": "UX/UI Designer",
+            "salary": "2000",
+            "isMarried": false
+        }
+    ]
+}
