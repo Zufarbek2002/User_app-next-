@@ -13,6 +13,7 @@ const DeleteModalComp = ({ open, setOpen, id }: deleteModalType) => {
       console.log((error as Error).message);
     }
     setOpen(false);
+    window.location.reload();
   };
   return (
     <div
