@@ -1,5 +1,12 @@
 import { datas } from "./data.json"
 
+import { NextApiRequest, NextApiResponse } from 'next';
+
+export default function handler(req: NextApiRequest, res: NextApiResponse) {
+    res.setHeader('Access-Control-Allow-Origin', 'https://user-app-next-ruby.vercel.app');
+    // Qolgan logika
+}
+
 export function GET() {
     return Response.json(datas)
 }
